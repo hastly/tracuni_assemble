@@ -1,0 +1,38 @@
+# Compiled
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*~
+
+# Deployment
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+.devpi/
+docs/_build/
+docs/_gen/
+Pipfile.lock
+
+# Integration
+.tox/
+htmlcov/
+.coverage
+.coverage.*
+.cache
+*.cover
+.pytest_cache/
+.mypy_cache/
+
+# Environment
+.python-version
+.env
+.venv
+venv/
+ENV/
+
+# Project
+.idea/
